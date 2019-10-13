@@ -1,2 +1,2 @@
 ## moved to
-# https://flagmeister.github.io
+# https://cardmeister.github.io
